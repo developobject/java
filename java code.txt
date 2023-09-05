@@ -1,0 +1,32 @@
+pour afficher 
+system.out.println()
+pour un tableau de chaine de char 
+string[] nomTbab={"a","b"};
+pour comparer des case de table nomTab[0]==nomTab[1] ou nomTab[0].equalsIgnoreCase(nomTab[1]) pour ingnorer majuscule
+nombre element de tab nomTab.length
+tab de 2 dimensions
+int[][] nomTab={
+{1,2,3},
+{4,5,6},
+{7,5,9},
+};
+decouper une chaine de char
+string chaine="a,b,c";
+string[] nomTab= chaine.split(",");
+if (){} else if () else{}
+-switch(age){ case 10: instructions;
+		break;
+		case 2: instructions;
+		break;
+		default: instructions;
+		}
+-for (int i=0; i<100; i++){}
+-for (string str: nomTab){}--> foe each
+-while(i!=0){};
+-while infine : while(true)
+-do {} while()
+-les fonctions:
+private (public ou protected) static int(string ou void retour) nomFonc( les arguments) {return}
+-static permet acces direct a ala fonction
+-une fonction peut avoir comme parametre une autre fonction
+test
